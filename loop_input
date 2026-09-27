@@ -28,5 +28,5 @@
     "table" : "FactStream",
     "cdc_col" : "stream_timestamp",
     "from_date" : ""
-  },
+  }
 ]
